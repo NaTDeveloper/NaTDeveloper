@@ -5,7 +5,7 @@ Hey there! I'm @NaTDeveloper, a passionate developer dedicated to creating innov
 - 🔭 I'm currently working on various open-source projects to contribute to the developer community.
 - 🌱 I'm continuously learning and exploring new technologies to enhance my skills and knowledge.
 - 💬 Ask me about anything related to web development, software engineering, or programming in general. I love engaging in discussions and sharing knowledge!
-- 📫 You can reach me via [Discord](https://discord.com/channels/@me/831085727391154186) or connect with me on [Twitter]([https://twitter.com/NaTDeveloper](https://twitter.com/natthedeveloper))!
+- 📫 You can reach me via [Discord](https://discord.com/channels/@me/831085727391154186) or connect with me on [Twitter](https://twitter.com/natthedeveloper)!
 
 ## Performance Stats
 

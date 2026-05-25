@@ -21,27 +21,6 @@ I build ultra-minimal, passwordless workflows and visually striking Discord + ho
 
 ---
 
-## 🌐 Projects
-
-### 🧠 [Nexus Studios](https://nexustudios.in)  
-Creative tech lab powering hosting, community tools, and infrastructure innovation.  
-→ GitHub-integrated, bleeding-edge backend powering PhoenixWings and future services.
-
-### 🔥 [PhoenixWings](https://phoenixwings.xyz)  
-Next-gen hosting for Minecraft & Discord bots.  
-→ Built on AMD EPYC & XEON VPS architecture. Free tier available. Enterprise-ready.
-
----
-
-## 🔗 Ecosystem Diagram
-
-PhoenixWings is a flagship product powered by Nexus Studios infrastructure and backend logic.  
-Here’s a visual map of how they connect:
-
-🖼️ *Diagram is ready below!*
-
----
-
 ## 📬 Let’s Connect
 
 - 💬 Discord: `NaT#0001`
